@@ -1,0 +1,4 @@
+2022-06-25 08:03:10,884:INFO:Initializing load_model()
+2022-06-25 08:03:10,884:INFO:load_model(model_name=heart_disease.pkl, platform=None, authentication=None, verbose=True)
+2022-06-25 08:10:22,800:INFO:Initializing load_model()
+2022-06-25 08:10:22,800:INFO:load_model(model_name=heart_disease.pkl, platform=None, authentication=None, verbose=True)
